@@ -227,7 +227,9 @@ const StrukturKelas = () => {
 						<div className="relative bottom-3">
 							<BorderStruktur Jabatan="Kekeluargaan" Nama="Fina" Width="120px" />
 							<div className="py-[3%]"></div>
-							<BorderStruktur Jabatan="" Nama="-" Width="120px" />
+							<BorderStruktur Jabatan="" Nama="Purnama" Width="120px" />
+							<div className="py-[3%]"></div>
+							<BorderStruktur Jabatan="" Nama="Fahri" Width="120px" />
 						</div>
 					</div>
 				</div>
