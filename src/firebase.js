@@ -8,14 +8,15 @@ import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
+// Your web app's Firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyBmUIXJblRGF4HTCO3hOB8MykvLOq7whUE",
-  authDomain: "project-web-kelas.firebaseapp.com",
-  projectId: "project-web-kelas",
-  storageBucket: "project-web-kelas.appspot.com",
-  messagingSenderId: "202691312352",
-  appId: "1:202691312352:web:e82e7a494e705b2a12ee85"
+  apiKey: "AIzaSyCeHwU_u0Mmpm8TMywyARhhu4oK3OKr4MA",
+  authDomain: "xiione.firebaseapp.com",
+  projectId: "xiione",
+  storageBucket: "xiione.appspot.com",
+  messagingSenderId: "253350715958",
+  appId: "1:253350715958:web:23257902c0b2dfb99b2e97",
+  measurementId: "G-DY8DZDNL6C"
 };
 
 // Initialize Firebase
