@@ -34,11 +34,6 @@ const Footer = () => {
 										Instagram
 									</a>
 								</li>
-								<li>
-									<a href="#" class="hover:underline">
-										Website
-									</a>
-								</li>
 							</ul>
 						</div>
 						<div className="hidden md:block">
